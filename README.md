@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Industry Management System (MERN + TypeScript)
 
 Simple Industry Management module with login, industry CRUD, list, search, and details.
@@ -136,3 +137,6 @@ You can create a Postman collection with these endpoints:
 
 Use the JWT token from the login response as `Authorization: Bearer <token>`.
 
+=======
+# Industry-Management-System
+>>>>>>> 3d7ab683744ea5ca50ee5bb9ac6ad240a14bd53b
